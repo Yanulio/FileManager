@@ -1,0 +1,16 @@
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.exe
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.deps.json
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.runtimeconfig.json
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.runtimeconfig.dev.json
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.dll
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\ref\File manager.dll
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\bin\Debug\net5.0\File manager.pdb
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.csproj.AssemblyReference.cache
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.AssemblyInfoInputs.cache
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.AssemblyInfo.cs
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.csproj.CoreCompileInputs.cache
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.dll
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\ref\File manager.dll
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.pdb
+C:\Users\yana1\OneDrive\Рабочий стол\File Manager\File manager\File manager\obj\Debug\net5.0\File manager.genruntimeconfig.cache
