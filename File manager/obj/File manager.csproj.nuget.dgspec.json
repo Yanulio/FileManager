@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\File Manager\\File manager\\File manager\\File manager.csproj": {}
+    "C:\\Users\\User\\Desktop\\git\\FileManager\\File manager\\File manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\File Manager\\File manager\\File manager\\File manager.csproj": {
+    "C:\\Users\\User\\Desktop\\git\\FileManager\\File manager\\File manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\File Manager\\File manager\\File manager\\File manager.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\git\\FileManager\\File manager\\File manager.csproj",
         "projectName": "File manager",
-        "projectPath": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\File Manager\\File manager\\File manager\\File manager.csproj",
-        "packagesPath": "C:\\Users\\yana1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\File Manager\\File manager\\File manager\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\git\\FileManager\\File manager\\File manager.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\git\\FileManager\\File manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yana1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
